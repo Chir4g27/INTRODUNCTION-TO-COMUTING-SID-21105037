@@ -1,0 +1,46 @@
+Python 3.10.1 (v3.10.1:2cd268a3a9, Dec  6 2021, 14:28:59) [Clang 13.0.0 (clang-1300.0.29.3)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+
+============================================================================ RESTART: /Users/chirag/Desktop/assignment.py ============================================================================
+solving Q1  
+
+enter no 1 23
+enter no 2 23
+enter no 3 34
+sum of given nos is  80
+average of given nos is  26.666666666666668 
+
+solving Q2  
+
+ All values are to be entered in dollars.
+enter your gross income $3000
+enter no of dependents 4
+the tax comes out to be $ -3800.0 
+
+solving Q3  
+
+Student = [sid, name, gender, course, cgpa]
+enter your SID 21105037
+enter your name chirag
+enter your gender 'M', 'F', 'U' for male, female, unknown respectively.m
+enter your course name ece
+enter your cgpa 10
+student info  [21105037, 'chirag', 'm', 'ece', 10.0] 
+
+solving Q4 
+
+enter marks of student 1 56
+enter marks of student 2 67
+enter marks of student 3 89
+enter marks of student 4 98
+enter marks of student 5 76
+marks of 5 students are  [56, 67, 89, 98, 76]
+marks in ascending order  [56, 67, 76, 89, 98]
+marks in descending order  [98, 89, 76, 67, 56] 
+
+solving Q5 
+
+The provided list is  ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow'] 
+
+ The modified list  is color 1 = ['Red', 'Green', 'White', 'Pink', 'Yellow']
+The modified list is color 2 = ['Red', 'Green', 'White', 'Purple', 'Yellow']
